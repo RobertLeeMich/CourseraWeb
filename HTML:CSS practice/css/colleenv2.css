@@ -39,17 +39,29 @@ nav a {
     background-color: white;
 }
 
-section{
+.half{
 display: inline-block;
 width: 30%;
 float: left;
 margin-right: 2%;
 }
 
+.whole{
+    clear:both;
+    
+}
+
 h2{
     color: #843739;
     background: #9483ef;
 }
+
+button{
+    width: 750px;
+    height: 30px;
+    color: black;
+}
+
 details{
     font-style: italic;
 }
